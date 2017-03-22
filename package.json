@@ -1,0 +1,28 @@
+{
+  "name": "webpack-sample-dev-backend",
+  "version": "1.0.0",
+  "description": "This server provides students mock data and it acts as development server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nf start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lemoncode/webpack-sample-dev-backend.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Lemoncode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lemoncode/webpack-sample-dev-backend/issues"
+  },
+  "homepage": "https://github.com/Lemoncode/webpack-sample-dev-backend#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "foreman": "^2.0.0"
+  }
+}
